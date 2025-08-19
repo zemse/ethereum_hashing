@@ -1,11 +1,11 @@
 [package]
-name = "ethereum_hashing"
+name = "zemse_ethereum_hashing"
 version = "0.7.0"
 edition = "2021"
 license = "Apache-2.0"
 readme = "README.md"
 description = "Hashing primitives used in Ethereum"
-repository = "https://github.com/sigp/ethereum_hashing"
+repository = "https://github.com/zemse/ethereum_hashing"
 documentation = "https://docs.rs/ethereum_hashing"
 keywords = ["ethereum"]
 categories = ["cryptography::cryptocurrencies"]
